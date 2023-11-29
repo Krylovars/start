@@ -1,0 +1,5 @@
+https://dbeaver.io/download/
+https://winscp.net/eng/download.php
+
+https://comp-security.net/как-закрепить-bat-файл-на-панели-задач/
+дописать команду «cmd /c» и поставить 1 пробел
